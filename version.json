@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.0/LixiSphere-Setup-1.4.0.exe",
-    "notes":  "Mise à jour automatique intégrée à l\u0027application + QR d\u0027appairage sans fil agrandi (meilleure lisibilité par les téléphones).",
-    "sha256":  "572086439b2f308c73fe7b1874b8557a4583d606cc7962a0997eaa01cc15b108"
+    "version":  "1.4.1",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.1/LixiSphere-Setup-1.4.1.exe",
+    "notes":  "Nettoyage automatique des installeurs de mise à jour téléchargés (plus d\u0027accumulation dans les fichiers temporaires).",
+    "sha256":  "fb9706ea3d88f2734d6d660bf54bdaebc1d1e5aa4883f238a9d361f350b6d779"
 }
