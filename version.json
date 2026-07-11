@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.1",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.1/LixiSphere-Setup-1.4.1.exe",
-    "notes":  "Nettoyage automatique des installeurs de mise à jour téléchargés (plus d\u0027accumulation dans les fichiers temporaires).",
-    "sha256":  "fb9706ea3d88f2734d6d660bf54bdaebc1d1e5aa4883f238a9d361f350b6d779"
+    "version":  "1.4.2",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.2/LixiSphere-Setup-1.4.2.exe",
+    "notes":  "La mise à jour s\u0027affiche désormais automatiquement par-dessus l\u0027application (même minimisée), et s\u0027installe en un clic sans assistant (l\u0027application redémarre seule).",
+    "sha256":  "99fe0711993572c85246323e0411c0645700c661b652e7d2b7c75b73046bd6f2"
 }
