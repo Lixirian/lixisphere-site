@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.3",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.3/LixiSphere-Setup-1.4.3.exe",
-    "notes":  "Correction : la mise à jour ne se lançait pas après validation de l\u0027invite Windows (l\u0027installeur était fermé avec l\u0027application). L\u0027installeur s\u0027exécute désormais indépendamment.",
-    "sha256":  "f892611d68e829ba619a0bafe3fe6cf73f711a628765e2bb84e378dea17e9b74"
+    "version":  "1.4.4",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.4/LixiSphere-Setup-1.4.4.exe",
+    "notes":  "Correction des doublons dans la liste d\u0027appareils (un meme telephone n\u0027apparait plus deux fois) + bouton pour oublier tous les appareils enregistres.",
+    "sha256":  "81fa1fee59411b958f8a202f81dcc508c4b28a0b2469c9259aaf1b73a5c168a1"
 }
