@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.4",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.4/LixiSphere-Setup-1.4.4.exe",
-    "notes":  "Correction des doublons dans la liste d\u0027appareils (un meme telephone n\u0027apparait plus deux fois) + bouton pour oublier tous les appareils enregistres.",
-    "sha256":  "81fa1fee59411b958f8a202f81dcc508c4b28a0b2469c9259aaf1b73a5c168a1"
+    "version":  "1.4.5",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.5/LixiSphere-Setup-1.4.5.exe",
+    "notes":  "Correction : au demarrage, plus de seconde demande de validation apres la reconnexion d\u0027un appareil deja enregistre.",
+    "sha256":  "c1273edd4962835def9fffcb072132081baef099e17e977bf0f39df573499f96"
 }
