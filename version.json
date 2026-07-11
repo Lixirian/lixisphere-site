@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.2",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.2/LixiSphere-Setup-1.4.2.exe",
-    "notes":  "La mise à jour s\u0027affiche désormais automatiquement par-dessus l\u0027application (même minimisée), et s\u0027installe en un clic sans assistant (l\u0027application redémarre seule).",
-    "sha256":  "99fe0711993572c85246323e0411c0645700c661b652e7d2b7c75b73046bd6f2"
+    "version":  "1.4.3",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.3/LixiSphere-Setup-1.4.3.exe",
+    "notes":  "Correction : la mise à jour ne se lançait pas après validation de l\u0027invite Windows (l\u0027installeur était fermé avec l\u0027application). L\u0027installeur s\u0027exécute désormais indépendamment.",
+    "sha256":  "f892611d68e829ba619a0bafe3fe6cf73f711a628765e2bb84e378dea17e9b74"
 }
