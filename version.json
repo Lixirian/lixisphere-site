@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.5",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.5/LixiSphere-Setup-1.4.5.exe",
-    "notes":  "Correction : au demarrage, plus de seconde demande de validation apres la reconnexion d\u0027un appareil deja enregistre.",
-    "sha256":  "c1273edd4962835def9fffcb072132081baef099e17e977bf0f39df573499f96"
+    "version":  "1.4.6",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.6/LixiSphere-Setup-1.4.6.exe",
+    "notes":  "Correctif : plus de message d\u0027erreur adb.exe (0xc0000142) a l\u0027extinction du PC quand LixiSphere tourne en arriere-plan. L\u0027application gele tout lancement de processus des le debut de l\u0027arret de Windows et se termine immediatement.",
+    "sha256":  "f6168b3706c93493809a2b08a952850301f1523903e01714b78753009715a7e9"
 }
