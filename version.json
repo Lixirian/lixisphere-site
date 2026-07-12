@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.6",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.6/LixiSphere-Setup-1.4.6.exe",
-    "notes":  "Correctif : plus de message d\u0027erreur adb.exe (0xc0000142) a l\u0027extinction du PC quand LixiSphere tourne en arriere-plan. L\u0027application gele tout lancement de processus des le debut de l\u0027arret de Windows et se termine immediatement.",
-    "sha256":  "f6168b3706c93493809a2b08a952850301f1523903e01714b78753009715a7e9"
+    "version":  "1.4.7",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.7/LixiSphere-Setup-1.4.7.exe",
+    "notes":  "Nouveau : bouton Verifier les mises a jour dans les parametres (section Mise a jour). Inclut aussi le correctif 1.4.6 : plus de message d\u0027erreur adb.exe a l\u0027extinction du PC.",
+    "sha256":  "2cf5a60f6acd7b11ff18b3550a87bdc23c38f187eb8c876c4671e03ba17bf012"
 }
