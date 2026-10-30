@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.7",
-    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.7/LixiSphere-Setup-1.4.7.exe",
-    "notes":  "Nouveau : bouton Verifier les mises a jour dans les parametres (section Mise a jour). Inclut aussi le correctif 1.4.6 : plus de message d\u0027erreur adb.exe a l\u0027extinction du PC.",
-    "sha256":  "2cf5a60f6acd7b11ff18b3550a87bdc23c38f187eb8c876c4671e03ba17bf012"
+    "version":  "1.4.8",
+    "downloadUrl":  "https://github.com/Lixirian/lixisphere-site/releases/download/v1.4.8/LixiSphere-Setup-1.4.8.exe",
+    "notes":  "Correctif : l\u0027explorateur de fichiers affichait \u0027Client ADB non configure\u0027 quand le telephone etait connecte via le tray ou la reconnexion Wi-Fi. Installeur : nouvel identifiant d\u0027application (fin de la confusion avec un autre logiciel dans winget).",
+    "sha256":  "2cba9696e2ca5ebf983f1104a76b69e39735fdcf092bd669f72eeaf02bc49f32"
 }
